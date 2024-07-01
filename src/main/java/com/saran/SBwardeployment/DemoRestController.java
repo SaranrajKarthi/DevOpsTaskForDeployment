@@ -8,6 +8,6 @@ public class DemoRestController {
 
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello user";
+		return "Hello user its automatic deployment";
 	}
 }
